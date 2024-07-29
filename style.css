@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+}
+input{
+    height: 100px;
+    width: 90%;
+    border: 2px solid black;
+    padding-bottom: 70px;
+    padding-left: 20px;
+}
+.container{
+    margin: 30px;
+}
+.box{
+    border: 1px solid rgb(236, 164, 236);
+    width: 60%;
+    margin-left: 300px;
+    margin-top: 150px;
+    background-color: rgb(244, 132, 244);
+}
+.remain{
+   padding-left: 100px;
+}
